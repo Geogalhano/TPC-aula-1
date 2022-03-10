@@ -1,0 +1,21 @@
+mood = "happy"
+
+if mood == "happy":
+    print("It is great to see you happy!")
+if mood == "nervous":
+    print("Tem lá calma meu!")
+elif mood == "nervous":
+    print("Take a deep breath 3 times.")
+else:
+    print("Cheer up, mate!")
+
+mood = "nervous"
+
+if mood == "happy":
+    print("It is great to see you happy!")
+if mood == "nervous":
+    print("Tem lá calma meu!")
+elif mood == "nervous":
+    print("Take a deep breath 3 times.")
+else:
+    print("Cheer up, mate!")
